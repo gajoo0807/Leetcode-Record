@@ -24,7 +24,7 @@ Oct 30, 2026 · @Gajoo
 ### Week 1：Array / Hash / Two Pointers / Sliding Window / Stack
 
 - [x] 49 Group Anagrams
-- [ ] 128 Longest Consecutive Sequence
+- [x] 128 Longest Consecutive Sequence
 - [ ] 238 Product of Array Except Self
 - [ ] 15 3Sum
 - [ ] 11 Container With Most Water

@@ -26,7 +26,7 @@ Oct 30, 2026 · @Gajoo
 - [x] 49 Group Anagrams
 - [x] 128 Longest Consecutive Sequence
 - [x] 238 Product of Array Except Self
-- [ ] 15 3Sum
+- [x] 15 3Sum
 - [ ] 11 Container With Most Water
 - [ ] 3 Longest Substring Without Repeating Characters
 - [ ] 424 Longest Repeating Character Replacement

@@ -28,7 +28,7 @@ Oct 30, 2026 · @Gajoo
 - [x] 238 Product of Array Except Self
 - [x] 15 3Sum
 - [x] 11 Container With Most Water
-- [ ] 3 Longest Substring Without Repeating Characters
+- [x] 3 Longest Substring Without Repeating Characters
 - [ ] 424 Longest Repeating Character Replacement
 - [ ] 76 Minimum Window Substring
 - [ ] 560 Subarray Sum Equals K

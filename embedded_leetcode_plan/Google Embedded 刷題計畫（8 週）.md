@@ -29,8 +29,8 @@ Oct 30, 2026 · @Gajoo
 - [x] 15 3Sum
 - [x] 11 Container With Most Water
 - [x] 3 Longest Substring Without Repeating Characters
-- [ ] 424 Longest Repeating Character Replacement
-- [ ] 76 Minimum Window Substring
+- [x] 424 Longest Repeating Character Replacement
+- [x] 76 Minimum Window Substring
 - [ ] 560 Subarray Sum Equals K
 - [ ] 239 Sliding Window Maximum
 - [ ] 42 Trapping Rain Water

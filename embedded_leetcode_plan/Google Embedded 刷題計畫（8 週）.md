@@ -31,9 +31,9 @@ Oct 30, 2026 · @Gajoo
 - [x] 3 Longest Substring Without Repeating Characters
 - [x] 424 Longest Repeating Character Replacement
 - [x] 76 Minimum Window Substring
-- [ ] 560 Subarray Sum Equals K
-- [ ] 239 Sliding Window Maximum
-- [ ] 42 Trapping Rain Water
+- [x] 560 Subarray Sum Equals K
+- [x] 239 Sliding Window Maximum
+- [x] 42 Trapping Rain Water
 - [ ] 739 Daily Temperatures
 - [ ] 84 Largest Rectangle in Histogram
 - [ ] 155 Min Stack

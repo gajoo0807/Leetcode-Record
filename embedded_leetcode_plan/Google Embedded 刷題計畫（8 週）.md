@@ -42,8 +42,8 @@ Oct 30, 2026 · @Gajoo
 
 ### Week 2：Binary Search / Linked List
 
-- [ ] 33 Search in Rotated Sorted Array
-- [ ] 153 Find Minimum in Rotated Sorted Array
+- [x] 33 Search in Rotated Sorted Array
+- [x] 153 Find Minimum in Rotated Sorted Array
 - [ ] 875 Koko Eating Bananas
 - [ ] 1011 Capacity To Ship Packages Within D Days
 - [ ] 981 Time Based Key-Value Store

@@ -45,7 +45,7 @@ Oct 30, 2026 · @Gajoo
 - [x] 33 Search in Rotated Sorted Array
 - [x] 153 Find Minimum in Rotated Sorted Array
 - [x] 875 Koko Eating Bananas
-- [ ] 1011 Capacity To Ship Packages Within D Days
+- [x] 1011 Capacity To Ship Packages Within D Days
 - [ ] 981 Time Based Key-Value Store
 - [ ] 162 Find Peak Element
 - [ ] 206 Reverse Linked List（迭代 + 遞迴各一次）
